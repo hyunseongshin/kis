@@ -1,4 +1,4 @@
-# 모든 표 (CSV → Markdown 통합, 정렬 강화판)
+# 모든 표 (CSV → Markdown 통합)
 
 ---
 
